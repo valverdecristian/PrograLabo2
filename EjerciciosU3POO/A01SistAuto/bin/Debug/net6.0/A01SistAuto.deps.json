@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A01SistAuto/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeClases": "1.0.0"
+        },
+        "runtime": {
+          "A01SistAuto.dll": {}
+        }
+      },
+      "BibliotecaDeClases/1.0.0": {
+        "runtime": {
+          "BibliotecaDeClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A01SistAuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

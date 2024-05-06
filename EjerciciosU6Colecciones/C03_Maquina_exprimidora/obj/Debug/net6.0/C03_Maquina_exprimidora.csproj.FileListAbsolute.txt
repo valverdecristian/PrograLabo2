@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\bin\Debug\net6.0\C03_Maquina_exprimidora.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\bin\Debug\net6.0\C03_Maquina_exprimidora.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\bin\Debug\net6.0\C03_Maquina_exprimidora.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\bin\Debug\net6.0\C03_Maquina_exprimidora.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\bin\Debug\net6.0\C03_Maquina_exprimidora.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\refint\C03_Maquina_exprimidora.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\C03_Maquina_exprimidora.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\C03_Maquina_exprimidora\obj\Debug\net6.0\ref\C03_Maquina_exprimidora.dll

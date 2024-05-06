@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio1ValidadorRangos/1.0.0": {
+        "dependencies": {
+          "Funciones": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio1ValidadorRangos.dll": {}
+        }
+      },
+      "Funciones/1.0.0": {
+        "runtime": {
+          "Funciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio1ValidadorRangos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Funciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I01Numeros_Locos/1.0.0": {
+        "runtime": {
+          "I01Numeros_Locos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I01Numeros_Locos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

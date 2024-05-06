@@ -1,0 +1,17 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\bin\Debug\net6.0-windows\Saludo.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\bin\Debug\net6.0-windows\Saludo.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\bin\Debug\net6.0-windows\Saludo.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\bin\Debug\net6.0-windows\Saludo.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\bin\Debug\net6.0-windows\Saludo.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.Saludo.resources
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.csproj.GenerateResource.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\refint\Saludo.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\Saludo.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjercicioWF\Saludo\obj\Debug\net6.0-windows\ref\Saludo.dll

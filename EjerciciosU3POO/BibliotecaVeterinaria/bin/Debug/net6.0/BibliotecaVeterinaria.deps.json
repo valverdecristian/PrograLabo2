@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BibliotecaVeterinaria/1.0.0": {
+        "runtime": {
+          "BibliotecaVeterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaVeterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

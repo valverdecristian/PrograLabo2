@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\bin\Debug\net6.0\Ej01MaxMinPro.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\bin\Debug\net6.0\Ej01MaxMinPro.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\bin\Debug\net6.0\Ej01MaxMinPro.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\bin\Debug\net6.0\Ej01MaxMinPro.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\bin\Debug\net6.0\Ej01MaxMinPro.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\refint\Ej01MaxMinPro.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\Ej01MaxMinPro.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej01MaxMinPro\obj\Debug\net6.0\ref\Ej01MaxMinPro.dll

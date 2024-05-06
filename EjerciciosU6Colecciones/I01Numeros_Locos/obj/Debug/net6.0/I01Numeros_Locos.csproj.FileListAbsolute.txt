@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\bin\Debug\net6.0\I01Numeros_Locos.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\bin\Debug\net6.0\I01Numeros_Locos.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\bin\Debug\net6.0\I01Numeros_Locos.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\bin\Debug\net6.0\I01Numeros_Locos.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\bin\Debug\net6.0\I01Numeros_Locos.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\refint\I01Numeros_Locos.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\I01Numeros_Locos.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU6Colecciones\I01Numeros_Locos\obj\Debug\net6.0\ref\I01Numeros_Locos.dll

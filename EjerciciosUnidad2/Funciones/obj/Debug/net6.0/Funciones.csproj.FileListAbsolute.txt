@@ -1,0 +1,12 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\bin\Debug\net6.0\Funciones.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\bin\Debug\net6.0\Funciones.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\bin\Debug\net6.0\Funciones.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\refint\Funciones.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\Funciones.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Funciones\obj\Debug\net6.0\ref\Funciones.dll

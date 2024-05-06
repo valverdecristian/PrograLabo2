@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\bin\Debug\net6.0\Ejercicio5Tabla.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\bin\Debug\net6.0\Ejercicio5Tabla.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\bin\Debug\net6.0\Ejercicio5Tabla.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\bin\Debug\net6.0\Ejercicio5Tabla.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\bin\Debug\net6.0\Ejercicio5Tabla.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\refint\Ejercicio5Tabla.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\Ejercicio5Tabla.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad2\Ejercicio5Tabla\obj\Debug\net6.0\ref\Ejercicio5Tabla.dll

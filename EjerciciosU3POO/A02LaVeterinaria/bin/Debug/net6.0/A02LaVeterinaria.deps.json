@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A02LaVeterinaria/1.0.0": {
+        "dependencies": {
+          "BibliotecaVeterinaria": "1.0.0"
+        },
+        "runtime": {
+          "A02LaVeterinaria.dll": {}
+        }
+      },
+      "BibliotecaVeterinaria/1.0.0": {
+        "runtime": {
+          "BibliotecaVeterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A02LaVeterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaVeterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

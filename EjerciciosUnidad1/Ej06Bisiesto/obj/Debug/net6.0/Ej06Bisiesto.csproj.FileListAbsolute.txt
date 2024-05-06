@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\bin\Debug\net6.0\Ej06Bisiesto.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\bin\Debug\net6.0\Ej06Bisiesto.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\bin\Debug\net6.0\Ej06Bisiesto.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\bin\Debug\net6.0\Ej06Bisiesto.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\bin\Debug\net6.0\Ej06Bisiesto.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\refint\Ej06Bisiesto.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\Ej06Bisiesto.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosUnidad1\Ej06Bisiesto\obj\Debug\net6.0\ref\Ej06Bisiesto.dll

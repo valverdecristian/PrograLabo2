@@ -1,0 +1,12 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\bin\Debug\net6.0\BibliotecaVeterinaria.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\bin\Debug\net6.0\BibliotecaVeterinaria.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\bin\Debug\net6.0\BibliotecaVeterinaria.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\refint\BibliotecaVeterinaria.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\BibliotecaVeterinaria.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjerciciosU3POO\BibliotecaVeterinaria\obj\Debug\net6.0\ref\BibliotecaVeterinaria.dll
