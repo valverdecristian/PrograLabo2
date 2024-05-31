@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase13_Archivos/1.0.0": {
+        "dependencies": {
+          "EntidadesArchivos": "1.0.0"
+        },
+        "runtime": {
+          "Clase13_Archivos.dll": {}
+        }
+      },
+      "EntidadesArchivos/1.0.0": {
+        "runtime": {
+          "EntidadesArchivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase13_Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesArchivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

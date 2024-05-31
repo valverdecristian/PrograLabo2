@@ -1,0 +1,12 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\bin\Debug\net6.0\EntidadesArchivos.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\bin\Debug\net6.0\EntidadesArchivos.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\bin\Debug\net6.0\EntidadesArchivos.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\refint\EntidadesArchivos.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\EntidadesArchivos.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesArchivos\obj\Debug\net6.0\ref\EntidadesArchivos.dll

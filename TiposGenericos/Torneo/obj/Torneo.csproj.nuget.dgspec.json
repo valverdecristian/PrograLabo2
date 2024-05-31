@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\Torneo\\Torneo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\I01_Torneo\\I01_Torneo_Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\I01_Torneo\\I01_Torneo_Entidades.csproj",
+        "projectName": "I01_Torneo_Entidades",
+        "projectPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\I01_Torneo\\I01_Torneo_Entidades.csproj",
+        "packagesPath": "C:\\Users\\crizt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\I01_Torneo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crizt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\Torneo\\Torneo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\Torneo\\Torneo.csproj",
+        "projectName": "Torneo",
+        "projectPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\Torneo\\Torneo.csproj",
+        "packagesPath": "C:\\Users\\crizt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\Torneo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crizt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\I01_Torneo\\I01_Torneo_Entidades.csproj": {
+                "projectPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TiposGenericos\\I01_Torneo\\I01_Torneo_Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\bin\Debug\net6.0\EjemploParcial.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\bin\Debug\net6.0\EjemploParcial.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\bin\Debug\net6.0\EjemploParcial.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\bin\Debug\net6.0\EjemploParcial.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\bin\Debug\net6.0\EjemploParcial.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\refint\EjemploParcial.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\EjemploParcial.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\EjemploParcial\EjemploParcial\obj\Debug\net6.0\ref\EjemploParcial.dll
