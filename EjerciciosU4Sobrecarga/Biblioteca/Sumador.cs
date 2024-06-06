@@ -16,18 +16,16 @@ namespace Biblioteca
             // inicializa "cantidadSumas" en 0
         }
 
-        public void Sumar(long num1, long num2)
+        public long Sumar(long num1, long num2)
         {
             cantidadSumas++;
-            long resultado = num1 + num2;
-            Console.WriteLine($"La suma de {num1} y {num2} es: {resultado}");
+            return num1 + num2;
         }
 
-        public void Sumar(string cadena1, string cadena2)
+        public string Sumar(string cadena1, string cadena2)
         {
             cantidadSumas++;
-            string resultado = cadena1 + cadena2;
-            Console.WriteLine($"Concatenación de '{cadena1}' y '{cadena2}' es: {resultado}");
+            return cadena1 + cadena2;
         }
 
         public static explicit operator int(Sumador sumador)
@@ -37,7 +35,7 @@ namespace Biblioteca
 
         public static long operator +(Sumador sumador1, Sumador sumador2)
         {
-            return sumador1.cantidadSumas + sumador2.cantidadSumas;
+            return (int)sumador1 + (int)sumador2;
         }
 
         public static bool operator |(Sumador sumador1, Sumador sumador2)

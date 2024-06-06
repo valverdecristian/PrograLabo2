@@ -24,8 +24,6 @@ namespace Biblioteca
             return marca;
         }
 
-        // falta 2 y 4
-
         public float GetPrecio ()
         {
             return precio;
@@ -38,7 +36,7 @@ namespace Biblioteca
                 StringBuilder sb = new StringBuilder();
                 sb.AppendLine($"Marca: {producto.GetMarca()}");
                 sb.AppendLine($"Precio: {producto.GetPrecio()}");
-                sb.AppendLine($"Codigo: {producto.codigoDeBarra}");
+                sb.AppendLine($"Codigo: {(string)producto}");
 
                 return sb.ToString();
 
