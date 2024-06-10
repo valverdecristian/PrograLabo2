@@ -13,3 +13,6 @@ C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLa
 C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\Clase11_Interface\obj\Debug\net6.0\Clase12_Interface.pdb
 C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\Clase11_Interface\obj\Debug\net6.0\Clase12_Interface.genruntimeconfig.cache
 C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\Clase11_Interface\obj\Debug\net6.0\ref\Clase12_Interface.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\Clase11_Interface\bin\Debug\net6.0\EntidadesInterface.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\Clase11_Interface\bin\Debug\net6.0\EntidadesInterface.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\Clase11_Interface\obj\Debug\net6.0\Clase12_Interface.csproj.CopyComplete

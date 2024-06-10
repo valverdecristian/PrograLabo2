@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntidadesInterface
 {
-    public class Papel
+    public abstract class Papel
     {
         protected string tipo;
         protected int cantHojas;

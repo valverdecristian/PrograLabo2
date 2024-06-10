@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntidadesInterface
 {
-    public interface IMensaje
+    public interface IMensaje : IPrueba
     {
         string EnviarMensaje();
     }

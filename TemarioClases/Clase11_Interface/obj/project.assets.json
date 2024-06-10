@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "EntidadesInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntidadesInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesInterface.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EntidadesInterface/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesInterface/EntidadesInterface.csproj",
+      "msbuildProject": "../EntidadesInterface/EntidadesInterface.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "EntidadesInterface >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\crizt\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TemarioClases\\EntidadesInterface\\EntidadesInterface.csproj": {
+              "projectPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\TemarioClases\\EntidadesInterface\\EntidadesInterface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

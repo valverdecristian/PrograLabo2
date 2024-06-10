@@ -6,23 +6,27 @@ using System.Threading.Tasks;
 
 namespace EntidadesInterface
 {
-    public class Carta:Papel
+    public class Carta:Papel,IMensaje
     {
         public string sello;
-
-        public Carta(string tipo, int cantidadHojas, string sello): base(tipo, cantidadHojas)
+        public Carta(string tipo, int cantHojas, string sello) : base(tipo, cantHojas)
         {
             this.sello = sello;
         }
 
         public string AbrirCarta()
         {
-            return "Abrir Carta";
+            return "Abriendo carta....";
         }
 
         public string EnviarMensaje()
         {
-            return "Enviar Mensaje";
+            return "Nos rendimos";
+        }
+
+        public int Prueba()
+        {
+            throw new NotImplementedException();
         }
     }
 }

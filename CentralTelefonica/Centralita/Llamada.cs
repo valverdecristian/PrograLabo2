@@ -1,13 +1,13 @@
 ﻿using System.Text;
 
-namespace Centralita
+namespace Entidades
 {
     public enum TipoLlamada
     {
         Local, Provincial, Todas
     }
 
-    public class Llamada
+    public abstract class Llamada
     {
         protected float duracion;
         protected string? nroDestino;
@@ -43,7 +43,7 @@ namespace Centralita
             return sb.ToString();
         }
 
-        public int OrdenarPorDuracion(Llamada llamada1,  Llamada llamada2)
+        public static int OrdenarPorDuracion(Llamada llamada1,  Llamada llamada2)
         {
             if(llamada1.Duracion < llamada2.Duracion)
             {

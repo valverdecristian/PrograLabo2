@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\CentralTelefonica\\Centralita\\Centralita.csproj",
-      "projectName": "Centralita",
-      "projectPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\CentralTelefonica\\Centralita\\Centralita.csproj",
+      "projectUniqueName": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\CentralTelefonica\\Centralita\\Entidades.csproj",
+      "projectName": "Entidades",
+      "projectPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\CentralTelefonica\\Centralita\\Entidades.csproj",
       "packagesPath": "C:\\Users\\crizt\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\crizt\\OneDrive\\Documentos\\programacion2023\\tercer_cuatrimestre\\prograLabo2\\CentralTelefonica\\Centralita\\obj\\",
       "projectStyle": "PackageReference",

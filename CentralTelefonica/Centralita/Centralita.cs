@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Centralita
+namespace Entidades
 {
     public class Centralita
     {
@@ -88,6 +89,23 @@ namespace Centralita
             sb.AppendLine($"Razon Social: {razonSocial}");
 
             return sb.ToString();
+        }
+
+        public List<Llamada> Llamadas
+        {
+            get
+            {
+                return listaDeLlamadas;
+            }
+            set
+            {
+                listaDeLlamadas = value;
+            }
+        }
+
+        public void OrdenarLlamadas()
+        {
+            listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
 
 

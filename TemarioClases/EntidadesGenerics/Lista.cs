@@ -15,9 +15,11 @@
         }
 
         // metodo que devuelve un elemento del tipo T
-        public T GetElement(int index)
-        {
-            return T;
-        }
+        //public T GetElement(int index)
+        //{
+        //    return T;
+        //}
+
+
     }
 }

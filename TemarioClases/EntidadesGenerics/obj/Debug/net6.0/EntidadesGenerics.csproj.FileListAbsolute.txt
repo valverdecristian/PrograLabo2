@@ -1,0 +1,12 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\bin\Debug\net6.0\EntidadesGenerics.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\bin\Debug\net6.0\EntidadesGenerics.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\bin\Debug\net6.0\EntidadesGenerics.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\refint\EntidadesGenerics.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\EntidadesGenerics.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesGenerics\obj\Debug\net6.0\ref\EntidadesGenerics.dll

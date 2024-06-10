@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Clase12_Interface/1.0.0": {
+        "dependencies": {
+          "EntidadesInterface": "1.0.0"
+        },
         "runtime": {
           "Clase12_Interface.dll": {}
+        }
+      },
+      "EntidadesInterface/1.0.0": {
+        "runtime": {
+          "EntidadesInterface.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Clase12_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesInterface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

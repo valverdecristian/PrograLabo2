@@ -5,16 +5,17 @@ using System.Runtime.Versioning;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Centralita
+namespace Entidades
 {
-    public enum Franja
-    { 
-        Franja_1,
-        Franja_2,
-        Franja_3
-    }
     public class Provincial : Llamada
     {
+        public enum Franja
+        {
+            Franja_1,
+            Franja_2,
+            Franja_3
+        }
+
         protected Franja franjaHoraria;
 
         public Provincial(Franja miFranja, Llamada llamada)

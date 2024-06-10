@@ -1,0 +1,12 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\bin\Debug\net6.0\EntidadesInterface.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\bin\Debug\net6.0\EntidadesInterface.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\bin\Debug\net6.0\EntidadesInterface.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\refint\EntidadesInterface.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\EntidadesInterface.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClases\EntidadesInterface\obj\Debug\net6.0\ref\EntidadesInterface.dll

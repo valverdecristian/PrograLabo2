@@ -6,8 +6,23 @@ using System.Threading.Tasks;
 
 namespace EntidadesInterface
 {
-    public class Paloma:AnimalVolador
+    public class Paloma : AnimalVolador, IMensaje
     {
+        public string destino;
 
+        public Paloma(string nombre, string destino) : base(nombre)
+        {
+            this.destino = destino;
+        }
+
+        public string EnviarMensaje()
+        {
+            return "Les declaramos la guerra";
+        }
+
+        public int Prueba()
+        {
+            return 0;
+        }
     }
 }

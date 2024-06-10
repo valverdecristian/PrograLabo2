@@ -10,12 +10,16 @@ namespace EntidadesInterface
     {
         public Currier(string nombre, string apellido, string dni): base (nombre, apellido, dni)
         {
-            
         }
 
         public string EnviarMensaje()
         {
             return "Enviar";
+        }
+
+        public int Prueba()
+        {
+            throw new NotImplementedException();
         }
     }
 }
