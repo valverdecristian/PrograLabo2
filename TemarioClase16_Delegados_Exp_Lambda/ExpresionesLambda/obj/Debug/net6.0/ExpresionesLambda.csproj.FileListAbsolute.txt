@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\bin\Debug\net6.0\ExpresionesLambda.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\bin\Debug\net6.0\ExpresionesLambda.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\bin\Debug\net6.0\ExpresionesLambda.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\bin\Debug\net6.0\ExpresionesLambda.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\bin\Debug\net6.0\ExpresionesLambda.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\refint\ExpresionesLambda.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ExpresionesLambda.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase16_Delegados_Exp_Lambda\ExpresionesLambda\obj\Debug\net6.0\ref\ExpresionesLambda.dll
