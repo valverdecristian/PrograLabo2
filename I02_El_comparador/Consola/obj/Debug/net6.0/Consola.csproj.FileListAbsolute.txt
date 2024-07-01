@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\I02_El_comparador\Consola\obj\Debug\net6.0\ref\Consola.dll

@@ -1,0 +1,15 @@
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.exe
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.deps.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.runtimeconfig.json
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.AssemblyInfo.cs
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\refint\Hilos_Ejemplo1.dll
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.pdb
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.genruntimeconfig.cache
+C:\Users\crizt\OneDrive\Documentos\programacion2023\tercer_cuatrimestre\prograLabo2\TemarioClase19_ProgramacionMultiHilo\Hilos_Ejemplo1\obj\Debug\net6.0\ref\Hilos_Ejemplo1.dll
